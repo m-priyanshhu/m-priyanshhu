@@ -73,9 +73,9 @@ The project includes analysis of sales amount, categories, courier status, fulfi
 
 ### 3. Customer Behavior & Purchase Analytics
 
-**Tools:** Python, SQL, PostgreSQL, Power BI
+**Tools:** Python, SQL, Power BI
 
-Analyzed customer shopping behavior using Python for data preparation, PostgreSQL and SQL for business analysis, and Power BI for dashboard creation.
+Analyzed customer shopping behavior using Python for data preparation, PostgreSQL for business analysis, and Power BI for dashboard creation.
 
 [View Project](https://github.com/m-priyanshhu/customer-behavior-analytics)
 
