@@ -1,4 +1,3 @@
-
 # Hi, I'm Priyanshu Ranjan 👋
 
 ### Aspiring Data Analyst | B.Com (Accounting & Finance) Student
@@ -69,6 +68,16 @@ Analyzed an Amazon sales dataset using Excel for data cleaning and Power BI for 
 The project includes analysis of sales amount, categories, courier status, fulfilment, delivery partners, sizes, and state-wise performance.
 
 🔗 [View Project](https://github.com/m-priyanshhu/amazon-sales-analysis)
+
+---
+
+### 3. Customer Behavior & Purchase Analytics
+
+**Tools:** Python, SQL, PostgreSQL, Power BI
+
+Analyzed customer shopping behavior using Python for data preparation, PostgreSQL and SQL for business analysis, and Power BI for dashboard creation.
+
+[View Project](https://github.com/m-priyanshhu/customer-behavior-analytics)
 
 ---
 
