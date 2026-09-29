@@ -81,6 +81,16 @@ Analyzed customer shopping behavior using Python for data preparation, PostgreSQ
 
 ---
 
+### 4. Hospital Operations & Patient Analytics
+
+**Tools:** Excel, SQL, Python & Power BI  
+
+Analyzed 30,000 hospital patient records to understand patient volume, department activity, billing, waiting time, satisfaction, age groups, and readmission patterns.  
+
+[View Project](https://github.com/m-priyanshhu/hospital-operations-patient-analytics)
+
+---
+
 ## 📚 Currently Learning
 
 - Data Analytics
