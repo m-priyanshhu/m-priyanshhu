@@ -91,6 +91,16 @@ Analyzed 30,000 hospital patient records to understand patient volume, departmen
 
 ---
 
+### 5. HR Workforce Analysis
+
+**Tools:** Excel, SQL, Python & Power BI  
+
+Analyzed 40,000 employee records to understand workforce distribution, employee attrition, salary, overtime, satisfaction, tenure, promotion gaps, and performance patterns.  
+
+[View Project](https://github.com/m-priyanshhu/HR-Workforce-Analysis)
+
+---
+
 ## 📚 Currently Learning
 
 - Data Analytics
