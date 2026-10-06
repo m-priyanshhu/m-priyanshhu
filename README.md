@@ -97,7 +97,17 @@ Analyzed 30,000 hospital patient records to understand patient volume, departmen
 
 Analyzed 40,000 employee records to understand workforce distribution, employee attrition, salary, overtime, satisfaction, tenure, promotion gaps, and performance patterns.  
 
-[View Project](https://github.com/m-priyanshhu/HR-Workforce-Analysis)
+[View Project](https://github.com/m-priyanshhu/hr_workforce_analysis)
+
+---
+
+### 6. Airline Flight & Passenger Analysis
+
+**Tools:** Excel, Python, SQL & Power BI  
+
+Analyzed 34,935 airline records to understand airline performance, passenger activity, revenue, flight delays, cancellations, routes, booking channels, aircraft performance, and passenger satisfaction.  
+
+[View Project](https://github.com/m-priyanshhu/airline-flight-passenger-analysis)
 
 ---
 
