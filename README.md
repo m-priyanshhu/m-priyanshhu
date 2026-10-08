@@ -111,6 +111,16 @@ Analyzed 34,935 airline records to understand airline performance, passenger act
 
 ---
 
+### 7. Banking Customer & Transaction Analysis
+
+**Tools:** Excel, Python, SQL & Power BI
+
+Analyzed 34,998 banking transaction records to understand transaction performance, customer and account behavior, transaction channels, risk categories, account balances, and monthly trends. Built an interactive Power BI dashboard and performed SQL-based business analysis.
+
+[View Project](https://github.com/m-priyanshhu/banking-customer-transaction-analysis)
+
+---
+
 ## 📚 Currently Learning
 
 - Data Analytics
