@@ -121,6 +121,16 @@ Analyzed 34,998 banking transaction records to understand transaction performanc
 
 ---
 
+### 8. Retail Inventory & Supply Chain Analysis
+
+**Tools:** Excel, Python, PostgreSQL & Power BI
+
+Analyzed 35,000 retail records to understand sales performance, revenue, estimated gross profit, inventory levels, supplier performance, delivery status, product returns, and sales forecasts.
+
+[View Project](https://github.com/m-priyanshhu/retail-inventory-supply-chain-analysis)
+
+---
+
 ## 📚 Currently Learning
 
 - Data Analytics
